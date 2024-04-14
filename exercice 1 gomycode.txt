@@ -1,0 +1,22 @@
+1)
+
+internet -> url -> domain 
+
+pc -> api -> server 
+
+هو شخص في مطبخ حضر أكل 
+
+api -> crud ->  http reqwest -> poste update input dilet ارسال معلومات 
+
+html css js  frontend 
+كليون أفيشلو pc phone tblet pc 
+
+فم ابليكسيون على pc فم brwser
+
+يخدم سرفور  mongo db express js nodejs react
+
+تتسما مرن ستاك
+
+2)html css js dom
+
+3) بش نخدم واب نرى خدم في شرك و لا خدم وحدي نتعلم des longe jdida expernce jdida 
